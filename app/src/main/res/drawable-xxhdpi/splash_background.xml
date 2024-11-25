@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/splashscreen"
+        android:top="0dp"
+        android:bottom="0dp"
+        android:right="0dp"
+        android:left="0dp"
+        android:drawable="@color/white" />
+
+    <item android:id="@+id/splash_logo">
+        <bitmap
+            android:src="@drawable/splashscreen"
+             />
+    </item>
+
+
+
+
+
+
+
+
+</layer-list>
